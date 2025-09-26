@@ -1,4 +1,4 @@
-# Task Management API (SQL Version)
+# Task Management API 
 
 A simple Task Management API built with Node.js, Express, and MySQL/PostgreSQL using raw SQL queries.
 
